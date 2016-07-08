@@ -1,7 +1,7 @@
 # HelloAngular2
-<b>Installing and Running</b>
-1) cd HelloAngular2/webapp
-2) npm install
-3) npm start
+<b>Installing, Compiling and Running...</b>
+<p><i>1) cd HelloAngular2/webapp</i></p>
+<p><i>2) npm install</i></p>
+<p><i>3) npm start</i></p>
 
-Access http://localhost:3000/
+<p>Access http://localhost:3000/</p>
